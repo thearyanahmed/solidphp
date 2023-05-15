@@ -1,0 +1,15 @@
+{
+    "name": "thearyanahmed/solidphp",
+    "autoload": {
+        "psr-4": {
+            "Thearyanahmed\\SolidPHP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aryan Ahmed Anik",
+            "email": "thearyanahmed@gmail.com"
+        }
+    ],
+    "require": {}
+}
